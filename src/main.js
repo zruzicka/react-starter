@@ -1,0 +1,1 @@
+console.log('Starter says Hello!');
